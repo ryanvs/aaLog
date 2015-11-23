@@ -8,7 +8,7 @@ using Growl.CoreLibrary;
 
 namespace aaLogGrowler
 {
-    class GrowlHelper
+    static class GrowlHelper
     {
         public static void simpleGrowl(string title, string message = "")
         {

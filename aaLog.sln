@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aaLogWebAPI", "aaLogWebAPI\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aaLogReader.Tests", "aaLogReader.Tests\aaLogReader.Tests.csproj", "{A606F2E4-442B-4C64-96E5-8BB9318FF28C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aaLogGrowler", "aaLogGrowler\aaLogGrowler.csproj", "{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +171,24 @@ Global
 		{A606F2E4-442B-4C64-96E5-8BB9318FF28C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{A606F2E4-442B-4C64-96E5-8BB9318FF28C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{A606F2E4-442B-4C64-96E5-8BB9318FF28C}.Release|x86.ActiveCfg = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Debug|x86.Build.0 = Debug|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release - aaSplunkLogConsole|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release - aaSplunkLogConsole|Any CPU.Build.0 = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release - aaSplunkLogConsole|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release - aaSplunkLogConsole|Mixed Platforms.Build.0 = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release - aaSplunkLogConsole|x86.ActiveCfg = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release - aaSplunkLogConsole|x86.Build.0 = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release|x86.ActiveCfg = Release|Any CPU
+		{BEDF386C-5E97-4AF2-A74B-EB6F3867765A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,8 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+[assembly: log4net.Config.XmlConfigurator(ConfigFile = "log.config", Watch = true)]
+
 namespace aaLogGrowler
 {
+
     static class Program
     {
         /// <summary>
